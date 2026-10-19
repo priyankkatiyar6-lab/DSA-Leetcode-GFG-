@@ -9,18 +9,19 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 1 | 0 | 0 | 1 | - |
+| LeetCode | 2 | 1 | 0 | 1 | - |
 | GeeksforGeeks | 5 | 0 | 1 | 0 | 4 |
-| **Total** | **6** | **0** | **1** | **1** | **4** |
+| **Total** | **7** | **1** | **1** | **1** | **4** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/2916_SubarraysDistinctElementSumOfSquaresII.cpp) |
-| 2 | [Min Cost Climbing Stairs](https://practice.geeksforgeeks.org/problems/min-cost-climbing-stairs/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinCostClimbingStairs.cpp) |
-| 3 | [C++ 2-D Arrays](https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_C2DArrays.cpp) |
-| 4 | [C++ STL](https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CSTL.cpp) |
-| 5 | [Last Coin in Game of Alternates](https://practice.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LastCoinInGameOfAlternates.cpp) |
-| 6 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
+| 1 | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/2089_FindTargetIndicesAfterSortingArray.cpp) |
+| 2 | [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/2916_SubarraysDistinctElementSumOfSquaresII.cpp) |
+| 3 | [Min Cost Climbing Stairs](https://practice.geeksforgeeks.org/problems/min-cost-climbing-stairs/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinCostClimbingStairs.cpp) |
+| 4 | [C++ 2-D Arrays](https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_C2DArrays.cpp) |
+| 5 | [C++ STL](https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CSTL.cpp) |
+| 6 | [Last Coin in Game of Alternates](https://practice.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LastCoinInGameOfAlternates.cpp) |
+| 7 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
 <!-- COMMITDSA_END -->
