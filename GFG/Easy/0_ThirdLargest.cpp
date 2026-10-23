@@ -1,0 +1,21 @@
+/**
+ * Problem Link : https://practice.geeksforgeeks.org/problems/third-largest-element/1
+ * Platform     : GFG
+ * Difficulty   : Easy
+ */
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+  public:
+    int thirdLargest(vector<int> &arr) {
+        // code here
+        int n = arr.size();
+        if(n<3){
+            return -1;
+        }
+        sort(arr.begin(),arr.end());
+        return arr[n-3];
+    }
+};
