@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 3 | 1 | 1 | 1 | - |
-| GeeksforGeeks | 10 | 3 | 1 | 0 | 6 |
-| **Total** | **13** | **4** | **2** | **1** | **6** |
+| GeeksforGeeks | 11 | 3 | 1 | 0 | 7 |
+| **Total** | **14** | **4** | **2** | **1** | **7** |
 
 ## Solved Problems
 
@@ -28,6 +28,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 9 | [C++ Data Types](https://practice.geeksforgeeks.org/problems/c-data-types1523/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CDataTypes.cpp) |
 | 10 | [C++ STL](https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CSTL.cpp) |
 | 11 | [Last Coin in Game of Alternates](https://practice.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LastCoinInGameOfAlternates.cpp) |
-| 12 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
-| 13 | [Sum Array Puzzle](https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumArrayPuzzle.cpp) |
+| 12 | [Merge and Sort](https://practice.geeksforgeeks.org/problems/merge-and-sort5821/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MergeAndSort.cpp) |
+| 13 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
+| 14 | [Sum Array Puzzle](https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumArrayPuzzle.cpp) |
 <!-- COMMITDSA_END -->
