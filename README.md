@@ -9,9 +9,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 3 | 1 | 1 | 1 | - |
+| LeetCode | 4 | 1 | 2 | 1 | - |
 | GeeksforGeeks | 12 | 4 | 1 | 0 | 7 |
-| **Total** | **15** | **5** | **2** | **1** | **7** |
+| **Total** | **16** | **5** | **3** | **1** | **7** |
 
 ## Solved Problems
 
@@ -19,17 +19,18 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | --- | --- | --- | --- | --- | --- |
 | 1 | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/2089_FindTargetIndicesAfterSortingArray.cpp) |
 | 2 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/198_HouseRobber.cpp) |
-| 3 | [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/2916_SubarraysDistinctElementSumOfSquaresII.cpp) |
-| 4 | [Check Consonants and Vowels](https://practice.geeksforgeeks.org/problems/consonants-and-vowels-check-java/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CheckConsonantsAndVowels.cpp) |
-| 5 | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_InsertionSort.cpp) |
-| 6 | [Product of Array](https://practice.geeksforgeeks.org/problems/product-of-array-element/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ProductOfArray.cpp) |
-| 7 | [Third Largest](https://practice.geeksforgeeks.org/problems/third-largest-element/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ThirdLargest.cpp) |
-| 8 | [Min Cost Climbing Stairs](https://practice.geeksforgeeks.org/problems/min-cost-climbing-stairs/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinCostClimbingStairs.cpp) |
-| 9 | [C++ 2-D Arrays](https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_C2DArrays.cpp) |
-| 10 | [C++ Data Types](https://practice.geeksforgeeks.org/problems/c-data-types1523/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CDataTypes.cpp) |
-| 11 | [C++ STL](https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CSTL.cpp) |
-| 12 | [Last Coin in Game of Alternates](https://practice.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LastCoinInGameOfAlternates.cpp) |
-| 13 | [Merge and Sort](https://practice.geeksforgeeks.org/problems/merge-and-sort5821/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MergeAndSort.cpp) |
-| 14 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
-| 15 | [Sum Array Puzzle](https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumArrayPuzzle.cpp) |
+| 3 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/62_UniquePaths.cpp) |
+| 4 | [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/2916_SubarraysDistinctElementSumOfSquaresII.cpp) |
+| 5 | [Check Consonants and Vowels](https://practice.geeksforgeeks.org/problems/consonants-and-vowels-check-java/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CheckConsonantsAndVowels.cpp) |
+| 6 | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_InsertionSort.cpp) |
+| 7 | [Product of Array](https://practice.geeksforgeeks.org/problems/product-of-array-element/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ProductOfArray.cpp) |
+| 8 | [Third Largest](https://practice.geeksforgeeks.org/problems/third-largest-element/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ThirdLargest.cpp) |
+| 9 | [Min Cost Climbing Stairs](https://practice.geeksforgeeks.org/problems/min-cost-climbing-stairs/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinCostClimbingStairs.cpp) |
+| 10 | [C++ 2-D Arrays](https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_C2DArrays.cpp) |
+| 11 | [C++ Data Types](https://practice.geeksforgeeks.org/problems/c-data-types1523/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CDataTypes.cpp) |
+| 12 | [C++ STL](https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CSTL.cpp) |
+| 13 | [Last Coin in Game of Alternates](https://practice.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LastCoinInGameOfAlternates.cpp) |
+| 14 | [Merge and Sort](https://practice.geeksforgeeks.org/problems/merge-and-sort5821/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MergeAndSort.cpp) |
+| 15 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
+| 16 | [Sum Array Puzzle](https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumArrayPuzzle.cpp) |
 <!-- COMMITDSA_END -->
