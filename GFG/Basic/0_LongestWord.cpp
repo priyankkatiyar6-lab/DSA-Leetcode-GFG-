@@ -11,15 +11,13 @@ class Solution {
   public:
     string longest(vector<string>& arr) {
         // code here
-        string longestWord = arr[0];
-
-                for (int i = 1; i < arr.size(); i++) {
-                    if (arr[i].length() > longestWord.length()) {
-                        longestWord = arr[i];
-                    }
-                }
-
-                return longestWord;
+        string str = arr[0];
+        for(int i = 1 ; i < arr.size() ; i++){
+            if(arr[i].length() > str.length()){
+                str = arr[i];
+            }
+        }
+        return str;
     }
 };
 
