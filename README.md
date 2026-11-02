@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 5 | 2 | 2 | 1 | - |
-| GeeksforGeeks | 15 | 6 | 2 | 0 | 7 |
-| **Total** | **20** | **8** | **4** | **1** | **7** |
+| GeeksforGeeks | 16 | 6 | 2 | 0 | 8 |
+| **Total** | **21** | **8** | **4** | **1** | **8** |
 
 ## Solved Problems
 
@@ -34,7 +34,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 15 | [C++ Data Types](https://practice.geeksforgeeks.org/problems/c-data-types1523/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CDataTypes.cpp) |
 | 16 | [C++ STL](https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CSTL.cpp) |
 | 17 | [Last Coin in Game of Alternates](https://practice.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LastCoinInGameOfAlternates.cpp) |
-| 18 | [Merge and Sort](https://practice.geeksforgeeks.org/problems/merge-and-sort5821/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MergeAndSort.cpp) |
-| 19 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
-| 20 | [Sum Array Puzzle](https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumArrayPuzzle.cpp) |
+| 18 | [Longest Word](https://practice.geeksforgeeks.org/problems/display-longest-name0853/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LongestWord.cpp) |
+| 19 | [Merge and Sort](https://practice.geeksforgeeks.org/problems/merge-and-sort5821/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MergeAndSort.cpp) |
+| 20 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
+| 21 | [Sum Array Puzzle](https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumArrayPuzzle.cpp) |
 <!-- COMMITDSA_END -->
