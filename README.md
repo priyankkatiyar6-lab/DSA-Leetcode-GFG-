@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 6 | 3 | 2 | 1 | - |
-| GeeksforGeeks | 27 | 10 | 3 | 0 | 14 |
-| **Total** | **33** | **13** | **5** | **1** | **14** |
+| GeeksforGeeks | 28 | 10 | 3 | 0 | 15 |
+| **Total** | **34** | **13** | **5** | **1** | **15** |
 
 ## Solved Problems
 
@@ -36,18 +36,19 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 17 | [C++ Generic Sort](https://practice.geeksforgeeks.org/problems/c-generic-sort/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_CGenericSort.cpp) |
 | 18 | [Min Cost Climbing Stairs](https://practice.geeksforgeeks.org/problems/min-cost-climbing-stairs/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinCostClimbingStairs.cpp) |
 | 19 | [Sort in Specific Order](https://practice.geeksforgeeks.org/problems/sort-in-specific-order2422/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SortInSpecificOrder.cpp) |
-| 20 | [Adjacent XOR Transformation](https://practice.geeksforgeeks.org/problems/game-with-nos3123/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_AdjacentXORTransformation.cpp) |
-| 21 | [Array fill](https://practice.geeksforgeeks.org/problems/vector-fill/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ArrayFill.cpp) |
-| 22 | [At Least Two Greater](https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_AtLeastTwoGreater.cpp) |
-| 23 | [C++ 2-D Arrays](https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_C2DArrays.cpp) |
-| 24 | [C++ Data Types](https://practice.geeksforgeeks.org/problems/c-data-types1523/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CDataTypes.cpp) |
-| 25 | [C++ STL](https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CSTL.cpp) |
-| 26 | [Compare Two Numbers](https://practice.geeksforgeeks.org/problems/compare-two-numbers/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CompareTwoNumbers.cpp) |
-| 27 | [Do While Loop](https://practice.geeksforgeeks.org/problems/do-while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_DoWhileLoop.cpp) |
-| 28 | [First 1 in Sorted Binary](https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_First1InSortedBinary.cpp) |
-| 29 | [Last Coin in Game of Alternates](https://practice.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LastCoinInGameOfAlternates.cpp) |
-| 30 | [Longest Word](https://practice.geeksforgeeks.org/problems/display-longest-name0853/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LongestWord.cpp) |
-| 31 | [Merge and Sort](https://practice.geeksforgeeks.org/problems/merge-and-sort5821/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MergeAndSort.cpp) |
-| 32 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
-| 33 | [Sum Array Puzzle](https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumArrayPuzzle.cpp) |
+| 20 | [Absolute Value](https://practice.geeksforgeeks.org/problems/absolute-value/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_AbsoluteValue.cpp) |
+| 21 | [Adjacent XOR Transformation](https://practice.geeksforgeeks.org/problems/game-with-nos3123/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_AdjacentXORTransformation.cpp) |
+| 22 | [Array fill](https://practice.geeksforgeeks.org/problems/vector-fill/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ArrayFill.cpp) |
+| 23 | [At Least Two Greater](https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_AtLeastTwoGreater.cpp) |
+| 24 | [C++ 2-D Arrays](https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_C2DArrays.cpp) |
+| 25 | [C++ Data Types](https://practice.geeksforgeeks.org/problems/c-data-types1523/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CDataTypes.cpp) |
+| 26 | [C++ STL](https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CSTL.cpp) |
+| 27 | [Compare Two Numbers](https://practice.geeksforgeeks.org/problems/compare-two-numbers/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CompareTwoNumbers.cpp) |
+| 28 | [Do While Loop](https://practice.geeksforgeeks.org/problems/do-while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_DoWhileLoop.cpp) |
+| 29 | [First 1 in Sorted Binary](https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_First1InSortedBinary.cpp) |
+| 30 | [Last Coin in Game of Alternates](https://practice.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LastCoinInGameOfAlternates.cpp) |
+| 31 | [Longest Word](https://practice.geeksforgeeks.org/problems/display-longest-name0853/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LongestWord.cpp) |
+| 32 | [Merge and Sort](https://practice.geeksforgeeks.org/problems/merge-and-sort5821/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MergeAndSort.cpp) |
+| 33 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
+| 34 | [Sum Array Puzzle](https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumArrayPuzzle.cpp) |
 <!-- COMMITDSA_END -->
