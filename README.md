@@ -9,9 +9,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 5 | 2 | 2 | 1 | - |
+| LeetCode | 6 | 3 | 2 | 1 | - |
 | GeeksforGeeks | 27 | 10 | 3 | 0 | 14 |
-| **Total** | **32** | **12** | **5** | **1** | **14** |
+| **Total** | **33** | **13** | **5** | **1** | **14** |
 
 ## Solved Problems
 
@@ -19,34 +19,35 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | --- | --- | --- | --- | --- | --- |
 | 1 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/20_ValidParentheses.cpp) |
 | 2 | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/2089_FindTargetIndicesAfterSortingArray.cpp) |
-| 3 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/198_HouseRobber.cpp) |
-| 4 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/62_UniquePaths.cpp) |
-| 5 | [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/2916_SubarraysDistinctElementSumOfSquaresII.cpp) |
-| 6 | [Auto in C++](https://practice.geeksforgeeks.org/problems/add-auto-keyword--141631/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_AutoInC.cpp) |
-| 7 | [Check Consonants and Vowels](https://practice.geeksforgeeks.org/problems/consonants-and-vowels-check-java/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CheckConsonantsAndVowels.cpp) |
-| 8 | [Frequencies in a Limited Array](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_FrequenciesInALimitedArray.cpp) |
-| 9 | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_InsertionSort.cpp) |
-| 10 | [Product of Array](https://practice.geeksforgeeks.org/problems/product-of-array-element/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ProductOfArray.cpp) |
-| 11 | [Reverse String in C](https://practice.geeksforgeeks.org/problems/reverse-string-in-c/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ReverseStringInC.cpp) |
-| 12 | [Sort in Descending](https://practice.geeksforgeeks.org/problems/sort-in-descending--141631/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SortInDescending.cpp) |
-| 13 | [Swap Using Pointers](https://practice.geeksforgeeks.org/problems/magic-in-cpp--120640/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SwapUsingPointers.cpp) |
-| 14 | [Third Largest](https://practice.geeksforgeeks.org/problems/third-largest-element/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ThirdLargest.cpp) |
-| 15 | [XOR of Number Range](https://practice.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_XOROfNumberRange.cpp) |
-| 16 | [C++ Generic Sort](https://practice.geeksforgeeks.org/problems/c-generic-sort/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_CGenericSort.cpp) |
-| 17 | [Min Cost Climbing Stairs](https://practice.geeksforgeeks.org/problems/min-cost-climbing-stairs/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinCostClimbingStairs.cpp) |
-| 18 | [Sort in Specific Order](https://practice.geeksforgeeks.org/problems/sort-in-specific-order2422/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SortInSpecificOrder.cpp) |
-| 19 | [Adjacent XOR Transformation](https://practice.geeksforgeeks.org/problems/game-with-nos3123/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_AdjacentXORTransformation.cpp) |
-| 20 | [Array fill](https://practice.geeksforgeeks.org/problems/vector-fill/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ArrayFill.cpp) |
-| 21 | [At Least Two Greater](https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_AtLeastTwoGreater.cpp) |
-| 22 | [C++ 2-D Arrays](https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_C2DArrays.cpp) |
-| 23 | [C++ Data Types](https://practice.geeksforgeeks.org/problems/c-data-types1523/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CDataTypes.cpp) |
-| 24 | [C++ STL](https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CSTL.cpp) |
-| 25 | [Compare Two Numbers](https://practice.geeksforgeeks.org/problems/compare-two-numbers/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CompareTwoNumbers.cpp) |
-| 26 | [Do While Loop](https://practice.geeksforgeeks.org/problems/do-while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_DoWhileLoop.cpp) |
-| 27 | [First 1 in Sorted Binary](https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_First1InSortedBinary.cpp) |
-| 28 | [Last Coin in Game of Alternates](https://practice.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LastCoinInGameOfAlternates.cpp) |
-| 29 | [Longest Word](https://practice.geeksforgeeks.org/problems/display-longest-name0853/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LongestWord.cpp) |
-| 30 | [Merge and Sort](https://practice.geeksforgeeks.org/problems/merge-and-sort5821/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MergeAndSort.cpp) |
-| 31 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
-| 32 | [Sum Array Puzzle](https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumArrayPuzzle.cpp) |
+| 3 | [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/2124_CheckIfAllAsAppearsBeforeAllBs.cpp) |
+| 4 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/198_HouseRobber.cpp) |
+| 5 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/62_UniquePaths.cpp) |
+| 6 | [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/2916_SubarraysDistinctElementSumOfSquaresII.cpp) |
+| 7 | [Auto in C++](https://practice.geeksforgeeks.org/problems/add-auto-keyword--141631/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_AutoInC.cpp) |
+| 8 | [Check Consonants and Vowels](https://practice.geeksforgeeks.org/problems/consonants-and-vowels-check-java/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CheckConsonantsAndVowels.cpp) |
+| 9 | [Frequencies in a Limited Array](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_FrequenciesInALimitedArray.cpp) |
+| 10 | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_InsertionSort.cpp) |
+| 11 | [Product of Array](https://practice.geeksforgeeks.org/problems/product-of-array-element/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ProductOfArray.cpp) |
+| 12 | [Reverse String in C](https://practice.geeksforgeeks.org/problems/reverse-string-in-c/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ReverseStringInC.cpp) |
+| 13 | [Sort in Descending](https://practice.geeksforgeeks.org/problems/sort-in-descending--141631/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SortInDescending.cpp) |
+| 14 | [Swap Using Pointers](https://practice.geeksforgeeks.org/problems/magic-in-cpp--120640/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_SwapUsingPointers.cpp) |
+| 15 | [Third Largest](https://practice.geeksforgeeks.org/problems/third-largest-element/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ThirdLargest.cpp) |
+| 16 | [XOR of Number Range](https://practice.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_XOROfNumberRange.cpp) |
+| 17 | [C++ Generic Sort](https://practice.geeksforgeeks.org/problems/c-generic-sort/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_CGenericSort.cpp) |
+| 18 | [Min Cost Climbing Stairs](https://practice.geeksforgeeks.org/problems/min-cost-climbing-stairs/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinCostClimbingStairs.cpp) |
+| 19 | [Sort in Specific Order](https://practice.geeksforgeeks.org/problems/sort-in-specific-order2422/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SortInSpecificOrder.cpp) |
+| 20 | [Adjacent XOR Transformation](https://practice.geeksforgeeks.org/problems/game-with-nos3123/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_AdjacentXORTransformation.cpp) |
+| 21 | [Array fill](https://practice.geeksforgeeks.org/problems/vector-fill/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ArrayFill.cpp) |
+| 22 | [At Least Two Greater](https://practice.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_AtLeastTwoGreater.cpp) |
+| 23 | [C++ 2-D Arrays](https://practice.geeksforgeeks.org/problems/c-2-d-arrays0708/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_C2DArrays.cpp) |
+| 24 | [C++ Data Types](https://practice.geeksforgeeks.org/problems/c-data-types1523/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CDataTypes.cpp) |
+| 25 | [C++ STL](https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CSTL.cpp) |
+| 26 | [Compare Two Numbers](https://practice.geeksforgeeks.org/problems/compare-two-numbers/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CompareTwoNumbers.cpp) |
+| 27 | [Do While Loop](https://practice.geeksforgeeks.org/problems/do-while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_DoWhileLoop.cpp) |
+| 28 | [First 1 in Sorted Binary](https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_First1InSortedBinary.cpp) |
+| 29 | [Last Coin in Game of Alternates](https://practice.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LastCoinInGameOfAlternates.cpp) |
+| 30 | [Longest Word](https://practice.geeksforgeeks.org/problems/display-longest-name0853/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LongestWord.cpp) |
+| 31 | [Merge and Sort](https://practice.geeksforgeeks.org/problems/merge-and-sort5821/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MergeAndSort.cpp) |
+| 32 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
+| 33 | [Sum Array Puzzle](https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumArrayPuzzle.cpp) |
 <!-- COMMITDSA_END -->
