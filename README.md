@@ -10,8 +10,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 6 | 3 | 2 | 1 | - |
-| GeeksforGeeks | 29 | 11 | 3 | 0 | 15 |
-| **Total** | **35** | **14** | **5** | **1** | **15** |
+| GeeksforGeeks | 30 | 11 | 3 | 0 | 16 |
+| **Total** | **36** | **14** | **5** | **1** | **16** |
 
 ## Solved Problems
 
@@ -47,9 +47,10 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 28 | [Compare Two Numbers](https://practice.geeksforgeeks.org/problems/compare-two-numbers/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_CompareTwoNumbers.cpp) |
 | 29 | [Do While Loop](https://practice.geeksforgeeks.org/problems/do-while-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_DoWhileLoop.cpp) |
 | 30 | [First 1 in Sorted Binary](https://practice.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_First1InSortedBinary.cpp) |
-| 31 | [Last Coin in Game of Alternates](https://practice.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LastCoinInGameOfAlternates.cpp) |
-| 32 | [Longest Word](https://practice.geeksforgeeks.org/problems/display-longest-name0853/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LongestWord.cpp) |
-| 33 | [Merge and Sort](https://practice.geeksforgeeks.org/problems/merge-and-sort5821/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MergeAndSort.cpp) |
-| 34 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
-| 35 | [Sum Array Puzzle](https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumArrayPuzzle.cpp) |
+| 31 | [Input Boolean Value](https://practice.geeksforgeeks.org/problems/input-boolean-value/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_InputBooleanValue.cpp) |
+| 32 | [Last Coin in Game of Alternates](https://practice.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LastCoinInGameOfAlternates.cpp) |
+| 33 | [Longest Word](https://practice.geeksforgeeks.org/problems/display-longest-name0853/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LongestWord.cpp) |
+| 34 | [Merge and Sort](https://practice.geeksforgeeks.org/problems/merge-and-sort5821/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_MergeAndSort.cpp) |
+| 35 | [Palindrome Array](https://practice.geeksforgeeks.org/problems/perfect-arrays4645/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PalindromeArray.cpp) |
+| 36 | [Sum Array Puzzle](https://practice.geeksforgeeks.org/problems/sum-array-puzzle/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SumArrayPuzzle.cpp) |
 <!-- COMMITDSA_END -->
